@@ -1,7 +1,7 @@
 # About me 
-Hi
+Hi yes i commit Hibernation mode 24/7
 
-###Coming Soon..
+
 
 
   
