@@ -1,12 +1,6 @@
 <h1 align="center">Æ's Info </h1>
 
-
-
-### 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aceBLD.01) 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/ACE_bld/)
-
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 <div align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
