@@ -5,7 +5,7 @@ A student at the school they called CaisenHigh (Not jujutsu kaisen), coding beca
 
 ### 💻 Something that they called tech stack:
 #### Alien languages:
-- HTML (Not a programming language twin 🥀
+- HTML (Not a programming language twin 🥀)
 - CSS
 - JavaScript
 - Java
