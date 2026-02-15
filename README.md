@@ -13,7 +13,7 @@ A student at the school they called CaisenHigh (Not jujutsu kaisen), coding beca
 - Dart (Currently learning with [@bldace](https://github.com/bldace) )
 - Kotlin (Also currently learning with [@bldace](https://github.com/bldace) )
 
-#### Tool (Not a wrench or any sort of tool you see at your house):
+#### 🛠️ Tools (Not a wrench or any sort of tool you see at your house):
 - Visual Studio
 - Visual Studio Code
 - Apache Netbeans IDE
