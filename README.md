@@ -10,6 +10,7 @@ A student at the school they called CaisenHigh (Not jujutsu kaisen), coding beca
 - JavaScript
 - Java
 - Python
+- SQL
 - Dart (Currently learning with [@bldace](https://github.com/bldace) )
 - Kotlin (Also currently learning with [@bldace](https://github.com/bldace) )
 
@@ -18,5 +19,7 @@ A student at the school they called CaisenHigh (Not jujutsu kaisen), coding beca
 - Visual Studio Code
 - Apache Netbeans IDE
 - Android Studio
+- MySQL WorkBench
+- cursor
 - Canva
 - Figma 
