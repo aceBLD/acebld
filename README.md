@@ -13,6 +13,7 @@ A student at the school they called CaisenHigh (Not jujutsu kaisen), coding beca
 - SQL
 - Dart (Currently learning with [@bldace](https://github.com/bldace) )
 - Kotlin (Also currently learning with [@bldace](https://github.com/bldace) )
+- Rust (Will Learn Later)
 
 #### 🛠️ Tools (Not a wrench or any sort of tool you see at your house):
 - Visual Studio
