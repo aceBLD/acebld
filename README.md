@@ -1,7 +1,7 @@
 <h1 align="center">Æ's Info </h1>
 
 ### About me:
-A student at the school they called CaisenHigh (Not jujutsu kaisen), coding became my hobby, Adaptability, willing to contribute and help to my group/team (they owe me alot btw) and yeah.. just coding  
+Just a Student from the phillipines, Skibidi coder
 
 ### 💻 Something that they called tech stack:
 #### Alien languages:
@@ -13,6 +13,7 @@ A student at the school they called CaisenHigh (Not jujutsu kaisen), coding beca
 - SQL
 - Dart (Currently learning with [@bldace](https://github.com/bldace) )
 - Kotlin (Also currently learning with [@bldace](https://github.com/bldace) )
+- PHP (Learning)
 - Rust (Will Learn Later)
 
 #### 🛠️ Tools (Not a wrench or any sort of tool you see at your house):
