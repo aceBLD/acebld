@@ -1,12 +1,12 @@
 <h1 align="center">Æ's Info </h1>
 
 ### About me:
-Just a Student from the phillipines, Skibidi coder
+Just a student who do coding as a hobby and doin it for fun
 
 ### 💻 Something that they called tech stack:
 #### Alien languages:
-- HTML (Not a programming language twin 🥀)
-- CSS (Also not a programming language 🥀)
+- HTML 
+- CSS 
 - JavaScript
 - Java
 - Python
