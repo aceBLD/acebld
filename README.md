@@ -1,4 +1,4 @@
-<h1 align="center">Æ's Info </h1>
+<h1 align="center">Ø's Info </h1>
 
 ### About me:
 Just a student who do coding as a hobby and doin it for fun
